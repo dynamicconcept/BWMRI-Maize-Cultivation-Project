@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <Button
+            android:id="@+id/vutta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="ভুট্টা"
+            android:textSize="30sp"
+            android:textColor="#ffffff"
+            android:layout_marginTop="0dp"
+            android:background="#7acc5c"/>
+        <Button
+            android:id="@+id/khoivutta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_profile"
+            android:drawableRight="@drawable/arrow2"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="খৈ ভুট্টা"/>
+        <Button
+            android:id="@+id/mohor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableRight="@drawable/arrow2"
+            android:background="@drawable/background_profile"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="মোহর"/>
+        <Button
+            android:id="@+id/barifive"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:drawableRight="@drawable/arrow2"
+            android:background="@drawable/background_profile"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="বারি হাইব্রিড ভুট্টা ৫"/>
+
+
+        <Button
+            android:id="@+id/bariseven"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_profile"
+            android:drawableRight="@drawable/arrow2"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="বারি হাইব্রিড ভুট্টা ৭"/>
+        <Button
+            android:id="@+id/barinine"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_profile"
+            android:drawableRight="@drawable/arrow2"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="বারি হাইব্রিড ভুট্টা ৯"/>
+        <Button
+            android:id="@+id/bariten"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_profile"
+            android:drawableRight="@drawable/arrow2"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="বারি হাইব্রিড ভুট্টা ১০"/>
+
+
+        <Button
+            android:id="@+id/barieleven"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_profile"
+            android:drawableRight="@drawable/arrow2"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="বারি হাইব্রিড ভুট্টা ১১"/>
+        <Button
+            android:id="@+id/baritwelve"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_profile"
+            android:drawableRight="@drawable/arrow2"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="বারি হাইব্রিড ভুট্টা ১২"/>
+        <Button
+            android:id="@+id/barithirteen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_profile"
+            android:drawableRight="@drawable/arrow2"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="বারি হাইব্রিড ভুট্টা ১৩"/>
+
+
+        <Button
+            android:id="@+id/barifourteen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_profile"
+            android:drawableRight="@drawable/arrow2"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="বারি হাইব্রিড ভুট্টা ১৪"/>
+        <Button
+            android:id="@+id/barififteen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_profile"
+            android:drawableRight="@drawable/arrow2"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="বারি হাইব্রিড ভুট্টা ১৫"/>
+        <Button
+            android:id="@+id/barisixteen"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/background_profile"
+            android:drawableRight="@drawable/arrow2"
+            android:textColor="#ffffff"
+            android:textSize="20sp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="বারি হাইব্রিড ভুট্টা ১৬"/>
+
+    </LinearLayout>
+
+</ScrollView>
